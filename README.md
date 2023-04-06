@@ -1,4 +1,4 @@
-# My Unity Project
+# CyberVoid
 
 This is a 2D top-down rogue-like shooter game, where the player navigates through procedurally generated levels, fighting enemies and collecting items.
 
